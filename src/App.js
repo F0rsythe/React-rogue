@@ -1,8 +1,8 @@
-
+import Reactrouge from "./Reactrouge.js";
 const App = () => {
-  return (
+  return (  
     <div className="App">
-      Hello World
+        <Reactrouge />
     </div>
   );
 }
